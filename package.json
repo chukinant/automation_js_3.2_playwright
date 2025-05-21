@@ -1,0 +1,22 @@
+{
+  "name": "automation_js_3.2_playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chukinant/automation_js_3.2_playwright.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "Anton Chukin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chukinant/automation_js_3.2_playwright/issues"
+  },
+  "homepage": "https://github.com/chukinant/automation_js_3.2_playwright#readme",
+  "description": ""
+}
