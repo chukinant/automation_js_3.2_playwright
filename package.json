@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "playwright test"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
     "url": "https://github.com/chukinant/automation_js_3.2_playwright/issues"
   },
   "homepage": "https://github.com/chukinant/automation_js_3.2_playwright#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.21"
+  }
 }
